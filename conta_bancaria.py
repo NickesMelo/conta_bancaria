@@ -7,7 +7,7 @@ def menu():
     [s]\tSacar
     [e]\tExtrato
     [nc]\tNova Conta
-    [ln]\tListar Contas
+    [lc]\tListar Contas
     [nu]\tNovo Usuário
     [q]\tSair
     => """

@@ -41,7 +41,7 @@ Este é um sistema bancário simples implementado em Python, que permite realiza
 [s]    Sacar
 [e]    Extrato
 [nc]   Nova Conta
-[ln]   Listar Contas
+[lc]   Listar Contas
 [nu]   Novo Usuário
 [q]    Sair
 => 
