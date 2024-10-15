@@ -28,7 +28,7 @@ Este é um sistema bancário simples implementado em Python, que permite realiza
 4. Execute o programa com o seguinte comando:
 
    ```bash
-   python nome_do_arquivo.py
+   python conta_bancaria.py
    ```
 
 5. Utilize o menu interativo para realizar as operações desejadas.
